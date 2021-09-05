@@ -1,0 +1,14 @@
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.csproj.AssemblyReference.cache
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.AssemblyInfoInputs.cache
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.AssemblyInfo.cs
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\bin\Debug\netcoreapp3.1\Capitulo1.exe
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\bin\Debug\netcoreapp3.1\Capitulo1.deps.json
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\bin\Debug\netcoreapp3.1\Capitulo1.runtimeconfig.json
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\bin\Debug\netcoreapp3.1\Capitulo1.runtimeconfig.dev.json
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\bin\Debug\netcoreapp3.1\Capitulo1.dll
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\bin\Debug\netcoreapp3.1\Capitulo1.pdb
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.dll
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.pdb
+C:\Users\josue\OneDrive\Escritorio\Aplicada-1\Capitulo1\Capitulo1\obj\Debug\netcoreapp3.1\Capitulo1.genruntimeconfig.cache
