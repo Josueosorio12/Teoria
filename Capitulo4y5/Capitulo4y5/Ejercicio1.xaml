@@ -1,0 +1,27 @@
+﻿<Window x:Class="Capitulo4y5.Ejercicio1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Capitulo4y5"
+        mc:Ignorable="d"
+        Title="Ejercicio1" Height="450" Width="800">
+    <Grid>
+
+        <TextBox x:Name="Numero" Margin="10,59,660,325"/>
+        <Button Content="Multiplicar" x:Name="multiplicar" Click="multiplicar_Click" Margin="193,54,447,330"></Button>
+        <Button Content="Limpiar Tabla" x:Name="nuevo" Click="nuevo_Click" Margin="417,54,226,330"></Button>
+        <ListBox x:Name="Tabla" Margin="58,134,535,26" RenderTransformOrigin="0.5,0.5">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.583"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.763"/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <TextBlock HorizontalAlignment="Left" Margin="14,27,0,0" Text="Ingrese un numero" TextWrapping="Wrap" VerticalAlignment="Top" Height="27" Width="126"/>
+
+    </Grid>
+</Window>

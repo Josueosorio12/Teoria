@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo1\\Capitulo1.csproj",
+      "projectUniqueName": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo1\\Capitulo1.csproj",
       "projectName": "Capitulo1",
-      "projectPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo1\\Capitulo1.csproj",
+      "projectPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo1\\Capitulo1.csproj",
       "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo1\\obj\\",
+      "outputPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",

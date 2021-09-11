@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj": {}
+    "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj": {
+    "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj",
+        "projectUniqueName": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj",
         "projectName": "Capitulo-2",
-        "projectPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj",
+        "projectPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo-2\\Capitulo-2.csproj",
         "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada-1\\Capitulos\\Capitulo-2\\obj\\",
+        "outputPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\Aplicada 1\\Capitulos\\Capitulo-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
